@@ -5,5 +5,3 @@ Project Objectives:
 - analyze a dataset by building out class methods
 - use libraries to assist in analysis
 - make predictions about a dataset’s features based on findings
-Prerequisites:
-- Python Fundamentals
